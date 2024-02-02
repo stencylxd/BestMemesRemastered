@@ -1,9 +1,18 @@
 body {
-  background:cyan;
+  background: #00ffff;
 }
 p {
   color: black;
 }
 h1 {
   font-weight: bold;
+}
+.img-meme {
+  width: 200px;
+  height: 200px;
+}
+#copyright {
+  position: fixed;
+  bottom: 0;
+  left: 0;
 }
