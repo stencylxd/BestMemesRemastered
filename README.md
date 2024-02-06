@@ -1,9 +1,15 @@
 # Best Memes: Remastered
 This is a website that I co-authored in 8th grade with a classmate.
 
-I have made the website work again while leaving all text as-is.
+I have made the website work again while leaving all text content as-is.
 
-The original README contents are below:
+<br>
+<br>
+<br>
+<br>
+
+#### The original README.md contents are below:
+
 
 # My Website
 This is my website that I made.
