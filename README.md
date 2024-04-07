@@ -3,6 +3,8 @@ This is a website that I co-authored in 8th grade with a classmate.
 
 I have made the website work again while leaving all text content as-is.
 
+okay imma drop the act licensing on this is crazy
+
 <br>
 <br>
 <br>
